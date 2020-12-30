@@ -1,7 +1,7 @@
 # Clear-Search-Highlight-in-Vim
 A Vim plugin that cleans up Search Highlight in Vim.
 
-Cleanup\ Search\ Highlight: `\clsr`
+Cleanup Search Highlight: `\clsr`
 
 Hide Last Search Highlight: `\hsr`
 
